@@ -1,0 +1,38 @@
+subject_id,status,reason,calibration_windows,baseline_windows,stress_windows
+S01,processed,,2.0,14.0,3.0
+S02,excluded,duplicated data,,,
+S03,processed,,2.0,9.0,3.0
+S04,processed,,2.0,12.0,3.0
+S05,processed,,2.0,9.0,3.0
+S06,processed,,2.0,11.0,4.0
+S07,processed,,2.0,8.0,3.0
+S08,processed,,2.0,8.0,3.0
+S09,processed,,2.0,9.0,3.0
+S10,processed,,2.0,13.0,3.0
+S11,processed,,2.0,8.0,4.0
+S12,processed,,2.0,11.0,3.0
+S13,processed,,2.0,11.0,3.0
+S14,processed,,2.0,11.0,3.0
+S15,processed,,2.0,11.0,3.0
+S16,processed,,2.0,9.0,3.0
+S17,processed,,2.0,9.0,3.0
+S18,processed,,2.0,11.0,3.0
+f01,processed,,2.0,34.0,7.0
+f02,processed,,2.0,21.0,6.0
+f03,processed,,2.0,34.0,4.0
+f04,processed,,2.0,28.0,4.0
+f05,processed,,2.0,28.0,4.0
+f06,processed,,2.0,29.0,4.0
+f07,excluded,wristband cover not removed; signals not valid,,,
+f08,processed,,2.0,26.0,4.0
+f09,processed,,2.0,27.0,4.0
+f10,processed,,2.0,28.0,4.0
+f11,processed,,2.0,27.0,4.0
+f12,processed,,2.0,28.0,4.0
+f13,processed,,2.0,32.0,3.0
+f14_a,excluded,recording split into two parts,,,
+f14_b,excluded,recording split into two parts,,,
+f15,processed,,2.0,24.0,5.0
+f16,processed,,2.0,26.0,4.0
+f17,processed,,2.0,27.0,4.0
+f18,processed,,2.0,23.0,3.0
