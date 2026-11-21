@@ -1,4 +1,0 @@
-model,comparison,n_subjects,n_used,mean_diff_pp,median_diff_pp,n_higher,n_equal,n_lower,W,p_value,p_holm,significant_holm
-DT,"calibrated minus uncalibrated, 19 features",15,14,11.924242424242426,13.636363636363635,11,1,3,18.0,0.029541015625,0.088623046875,False
-LDA,"calibrated minus uncalibrated, 19 features",15,13,2.1978609625668466,4.545454545454541,9,2,4,34.0,0.454833984375,0.454833984375,False
-RF,"calibrated minus uncalibrated, 19 features",15,11,8.547831253713605,7.058823529411762,9,4,2,10.0,0.0419921875,0.088623046875,False
