@@ -1,0 +1,26 @@
+{
+  "training_dataset": "WESAD",
+  "testing_dataset": "PhysioNet wearable-device-dataset 1.0.1",
+  "window_seconds": 60,
+  "calibration_seconds": 120,
+  "stress_stages": [
+    "stroop",
+    "tmct"
+  ],
+  "v2_baseline_assumption_seconds": 180,
+  "stage_overrides": {},
+  "excluded_subjects": {
+    "S02": "Duplicated recording; not repaired in this analysis.",
+    "f07": "Wristband cover problem affecting signal validity.",
+    "f14_a": "Split recording; not merged in this analysis.",
+    "f14_b": "Split recording; not merged in this analysis."
+  },
+  "packages": {
+    "numpy": "2.3.4",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "neurokit2": "0.3.0"
+  },
+  "interpretation": "Exploratory external validation. Verify event boundaries and the V2 baseline assumption before final reporting. Initial-baseline evaluation contains few negative windows."
+}

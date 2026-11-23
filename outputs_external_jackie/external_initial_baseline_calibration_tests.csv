@@ -1,0 +1,4 @@
+model,n_subjects,n_nonzero,uncalibrated_BA_mean,calibrated_BA_mean,mean_change_pp,median_change_pp,n_improved,n_unchanged,n_worsened,wilcoxon_W,p_raw,calculation,p_holm,significant_holm
+DT,29,21,0.5855911330049262,0.7073070607553366,12.17159277504105,7.14285714285714,15,8,6,57.0,0.04018,"Monte Carlo permutation: 99,999 resamples",0.12054000000000001,False
+LDA,29,21,0.6005747126436781,0.6896551724137931,8.908045977011493,8.333333333333325,15,8,6,72.5,0.13662,"Monte Carlo permutation: 99,999 resamples",0.27324,False
+RF,29,21,0.5790229885057471,0.6570197044334976,7.799671592775042,8.333333333333325,15,8,6,72.5,0.13882,"Monte Carlo permutation: 99,999 resamples",0.27324,False
